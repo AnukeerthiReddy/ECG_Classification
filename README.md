@@ -1,4 +1,4 @@
-#ECG Signal Classification Using Machine Learning and Neural Networks
+#ECG Signal Classification Using Machine Learning and Neural Networks#
 ###Introduction
 Cardiovascular diseases (CVDs), such as myocardial infarction, cardiomyopathy, and myocarditis, are the leading causes of death worldwide. According to the American Heart Association (AHA), 90% of patients are unaware of their high risk before experiencing a cardiac event. Early detection and continuous monitoring are crucial to improving treatment outcomes.
 
